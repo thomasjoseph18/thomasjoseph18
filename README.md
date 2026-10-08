@@ -63,7 +63,7 @@ To build a strong foundation in **AI and Data Science** and gradually turn what 
 
 ## 📫 Connect With Me
 
-🌐 **Portfolio:** [thomasjoseph.pages.dev](https://thomasjoseph.pages.dev)
+🌐 **Portfolio:** [thomasjoseph.pages.dev](https://thomasjoseph18.pages.dev)
 
 💼 **LinkedIn:** [Thomas Joseph](https://www.linkedin.com/in/thomas-joseph-07a1b4426/)
 
